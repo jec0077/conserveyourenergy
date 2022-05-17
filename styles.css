@@ -125,6 +125,10 @@ button:hover {
     color: var(--main-bg);
 }
 
+.content .--center {
+    text-align: center;
+}
+
 .center--items {
     display: flex;
     justify-content: center;
